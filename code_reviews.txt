@@ -19,6 +19,13 @@ Items that should be present for a code review checklist:
 - Critcize the code not the coder
 
 2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
+Here is a good code review: https://codereview.stackexchange.com/questions/291416/an-arena-bump-allocator-in-c. The reason
+we believe this is a good review is because the poster did not simply post their code and ask for suggestions. The explained exactly
+what the want to create, the mechanisms that they used to create them, examples, and then asked specific questions along with suggestions
+for improvement.
 
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial.
 In addition, include recommendations for improvement to the review feedback.
+We thought this was a bad code review: https://codereview.stackexchange.com/questions/291316/how-to-manage-array-of-states-effectively.
+We said this because the code itself is missing comments there is not much explanantion in the post about what the code does and what it
+is trying to accomplish.
