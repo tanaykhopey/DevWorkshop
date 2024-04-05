@@ -1,0 +1,3 @@
+We were not able to complete this part in a timely manner because we spent a lot
+of time learning and fixing our branches and merging processes so we could all
+push our hello world programs.
